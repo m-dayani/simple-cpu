@@ -1,6 +1,6 @@
 # Simple CPU
 
-![Simple CPU](https://github.com/m-dayani/simple-cpu/diagram/simple-cpu-16bit.pdf)
+![Block Diagram](https://github.com/m-dayani/simple-cpu/blob/main/diagram/simple-cpu-16bit.pdf)
 
 A simple and efficient CPU design for Spartan III FPGAs. This was a practice project related to the computer architecture course as an undergraduate student. I uploaded it recently as an open-source project.
 
